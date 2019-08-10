@@ -5,7 +5,7 @@ A Cell Duplication Serious Game, it helps the biologic student to understand bet
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-0.PNG)
 ## Activate the organites.
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-1.png)
-## Collect the ressources.
+## Collect the resources.
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-2.png)
 ## Update the Organites, grow it up.
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-3.png)

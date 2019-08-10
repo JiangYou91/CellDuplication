@@ -11,7 +11,9 @@ A Cell Duplication Serious Game, it helps the biologic student to understand bet
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-3.png)
 ## Duplicate the Organites.
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-4.png)
-## Produce different proteines.
+## Check the Nucleus
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-5.png)
-## Welcome to the game.
+## Produce different proteines.
 ![alt text](https://github.com/JiangYou91/CellDuplication/blob/master/Capture-6.png)
+
+Welcome to the cell.
